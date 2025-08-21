@@ -56,6 +56,7 @@ python basket_analysis.py
 python customer_segmentation.py
 python forecast.py
 ```
+- Jupiter notebooks or Google Colab available for use
 ## 9. Team & Credits
 
 **Team 2 – Samsung Innovation Campus Big Data Capstone (July 2025)**
